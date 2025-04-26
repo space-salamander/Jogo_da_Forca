@@ -1,0 +1,2 @@
+Ola, este e um pequeno projeto que simula um joguinho divertido de forca, voltado principalmente para inciantes em python, ou qualquer linguagem de progamacao, pois utiliza de palvras-chave que sao utilizadas constantemente no meio da progamacao de forma 
+a divertir e instruir o usuario. A logica por tras do mesmo nao e dificil mas possui algumas coisa que aprendi no momento. Por meio desta possui dois scrpits, um contendo so o codigo e o outro com o codigo explicado linha por linha basicamente.
